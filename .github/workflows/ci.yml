@@ -1,0 +1,39 @@
+name: CI
+
+on:
+  push:
+    branches: [ "main" ]
+    tags: [ "v*" ]
+  pull_request:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Create airports.json
+        run: |
+          yq airports.yaml > /dev/null
+          yq -o=json -I=0 airports.yaml > airports.json
+
+      - name: Create navaids.json
+        run: |
+          yq navaids.yaml > /dev/null
+          yq -o=json -I=0 navaids.yaml > navaids.json
+
+      - name: Create release
+        if: github.ref_type == 'tag' && contains(github.ref_name, 'v')
+        uses: softprops/action-gh-release@v1
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        with:
+          name: NavData ${{ github.ref_name }}
+          prerelease: false
+          draft: true
+          files: |
+            airports.json
+            navaids.json

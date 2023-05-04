@@ -1,0 +1,2337 @@
+---
+- ID: TED
+  Name: ANCHORAGE
+- ID: ANN
+  Name: ANNETTE ISLAND
+- ID: BRW
+  Name: BARROW
+- ID: BET
+  Name: BETHEL
+- ID: BTT
+  Name: BETTLES
+- ID: BGQ
+  Name: BIG LAKE
+- ID: CDB
+  Name: COLD BAY
+- ID: SCC
+  Name: DEADHORSE
+- ID: BIG
+  Name: BIG DELTA
+- ID: DLG
+  Name: DILLINGHAM
+- ID: MOS
+  Name: MOSES POINT
+- ID: ENM
+  Name: EMMONAK
+- ID: FAI
+  Name: FAIRBANKS
+- ID: FYU
+  Name: FORT YUKON
+- ID: GAL
+  Name: GALENA
+- ID: GKN
+  Name: GULKANA
+- ID: HOM
+  Name: HOMER
+- ID: HPB
+  Name: HOOPER BAY
+- ID: HSL
+  Name: HUSLIA
+- ID: JOH
+  Name: JOHNSTONE POINT
+- ID: ENA
+  Name: KENAI
+- ID: AKN
+  Name: KING SALMON
+- ID: ODK
+  Name: KODIAK
+- ID: OTZ
+  Name: KOTZEBUE
+- ID: LVD
+  Name: LEVEL ISLAND
+- ID: MCG
+  Name: MC GRATH
+- ID: MDO
+  Name: MIDDLETON ISLAND
+- ID: ENN
+  Name: NENANA
+- ID: OME
+  Name: NOME
+- ID: ORT
+  Name: NORTHWAY
+- ID: ULL
+  Name: KUKULIAK
+- ID: WLK
+  Name: SELAWIK
+- ID: SSR
+  Name: SISTERS ISLAND
+- ID: BKA
+  Name: BIORKA ISLAND
+- ID: SQA
+  Name: SPARREVOHN
+- ID: TKA
+  Name: TALKEETNA
+- ID: TAL
+  Name: TANANA
+- ID: UNK
+  Name: UNALAKLEET
+- ID: YAK
+  Name: YAKUTAT
+- ID: VUZ
+  Name: VULCAN
+- ID: OKW
+  Name: BROOKWOOD
+- ID: DCU
+  Name: DECATUR
+- ID: RRS
+  Name: WIREGRASS
+- ID: EDN
+  Name: ENTERPRISE
+- ID: EUF
+  Name: EUFAULA
+- ID: HEY
+  Name: HANCHEY
+- ID: OZR
+  Name: CAIRNS
+- ID: GAD
+  Name: GADSDEN
+- ID: HAB
+  Name: HAMILTON
+- ID: RQZ
+  Name: ROCKET
+- ID: BFM
+  Name: BROOKLEY
+- ID: SJI
+  Name: SEMMES
+- ID: MVC
+  Name: MONROEVILLE
+- ID: MGM
+  Name: MONTGOMERY
+- ID: MSL
+  Name: MUSCLE SHOALS
+- ID: JYU
+  Name: JUNIOR
+- ID: TDG
+  Name: TALLADEGA
+- ID: LDK
+  Name: CRIMSON
+- ID: TGE
+  Name: TUSKEGEE
+- ID: GOJ
+  Name: GOSNELL
+- ID: ELD
+  Name: EL DORADO
+- ID: DAK
+  Name: DRAKE
+- ID: RZC
+  Name: RAZORBACK
+- ID: FLP
+  Name: FLIPPIN
+- ID: FSM
+  Name: FORT SMITH
+- ID: GQE
+  Name: GILMORE
+- ID: HRO
+  Name: HARRISON
+- ID: UJM
+  Name: MARVELL
+- ID: HOT
+  Name: HOT SPRINGS
+- ID: JBR
+  Name: JONESBORO
+- ID: LIT
+  Name: LITTLE ROCK
+- ID: MON
+  Name: MONTICELLO
+- ID: PBF
+  Name: PINE BLUFF
+- ID: TXK
+  Name: TEXARKANA
+- ID: ARG
+  Name: WALNUT RIDGE
+- ID: BXK
+  Name: BUCKEYE
+- ID: TFD
+  Name: STANFIELD
+- ID: DUG
+  Name: DOUGLAS
+- ID: FLG
+  Name: FLAGSTAFF
+- ID: FHU
+  Name: LIBBY
+- ID: GBN
+  Name: GILA BEND
+- ID: GCN
+  Name: GRAND CANYON
+- ID: IGM
+  Name: KINGMAN
+- ID: OLS
+  Name: NOGALES
+- ID: PGA
+  Name: PAGE
+- ID: PGS
+  Name: PEACH SPRINGS
+- ID: PXR
+  Name: PHOENIX
+- ID: IWA
+  Name: WILLIE
+- ID: DRK
+  Name: DRAKE
+- ID: SSO
+  Name: SAN SIMON
+- ID: SJN
+  Name: SAINT JOHNS
+- ID: TBC
+  Name: TUBA CITY
+- ID: TUS
+  Name: TUCSON
+- ID: INW
+  Name: WINSLOW
+- ID: BZA
+  Name: BARD
+- ID: ACV
+  Name: ARCATA
+- ID: AVE
+  Name: AVENAL
+- ID: EHF
+  Name: SHAFTER
+- ID: BSR
+  Name: BIG SUR
+- ID: BIH
+  Name: BISHOP
+- ID: BLH
+  Name: BLYTHE
+- ID: CMA
+  Name: CAMARILLO
+- ID: CIC
+  Name: CHICO
+- ID: CCR
+  Name: CONCORD
+- ID: CEC
+  Name: CRESCENT CITY
+- ID: DAG
+  Name: DAGGETT
+- ID: EDW
+  Name: EDWARDS
+- ID: TZZ
+  Name: TRAVIS
+- ID: FLW
+  Name: FELLOWS
+- ID: FIM
+  Name: FILLMORE
+- ID: FJS
+  Name: FORT JONES
+- ID: FOT
+  Name: FORTUNA
+- ID: CZQ
+  Name: CLOVIS
+- ID: FRA
+  Name: FRIANT
+- ID: GVO
+  Name: GAVIOTA
+- ID: GFS
+  Name: GOFFS
+- ID: GMN
+  Name: GORMAN
+- ID: HEC
+  Name: HECTOR
+- ID: AHC
+  Name: AMEDEE
+- ID: IPL
+  Name: IMPERIAL
+- ID: JLI
+  Name: JULIAN
+- ID: LHS
+  Name: LAKE HUGHES
+- ID: LIN
+  Name: LINDEN
+- ID: SLI
+  Name: SEAL BEACH
+- ID: LAX
+  Name: LOS ANGELES
+- ID: MYV
+  Name: MARYSVILLE
+- ID: MXW
+  Name: MAXWELL
+- ID: HYP
+  Name: EL NIDO
+- ID: MOD
+  Name: MODESTO
+- ID: SGD
+  Name: SCAGGS ISLAND
+- ID: EED
+  Name: NEEDLES
+- ID: OAK
+  Name: OAKLAND
+- ID: OCN
+  Name: OCEANSIDE
+- ID: PDZ
+  Name: PARADISE
+- ID: VTU
+  Name: VENTURA
+- ID: PSP
+  Name: PALM SPRINGS
+- ID: TRM
+  Name: THERMAL
+- ID: PMD
+  Name: PALMDALE
+- ID: PXN
+  Name: PANOCHE
+- ID: PKE
+  Name: PARKER
+- ID: PRB
+  Name: PASO ROBLES
+- ID: HNW
+  Name: HANGTOWN
+- ID: PYE
+  Name: POINT REYES
+- ID: POM
+  Name: POMONA
+- ID: TTE
+  Name: TULE
+- ID: ROM
+  Name: PRIEST
+- ID: RBL
+  Name: RED BLUFF
+- ID: RDD
+  Name: REDDING
+- ID: HDF
+  Name: HOMELAND
+- ID: RAL
+  Name: RIVERSIDE
+- ID: MCC
+  Name: MC CLELLAN
+- ID: SAC
+  Name: SACRAMENTO
+- ID: SNS
+  Name: SALINAS
+- ID: MZB
+  Name: MISSION BAY
+- ID: PGY
+  Name: POGGI
+- ID: SFO
+  Name: SAN FRANCISCO
+- ID: SJC
+  Name: SAN JOSE
+- ID: MQO
+  Name: MORRO BAY
+- ID: ELB
+  Name: EL TORO
+- ID: RZS
+  Name: SAN MARCUS
+- ID: SXC
+  Name: SANTA CATALINA
+- ID: GLJ
+  Name: GUADALUPE
+- ID: SMO
+  Name: SANTA MONICA
+- ID: STS
+  Name: SANTA ROSA
+- ID: SAU
+  Name: SAUSALITO
+- ID: SWR
+  Name: SQUAW VALLEY
+- ID: ECA
+  Name: MANTECA
+- ID: TNP
+  Name: TWENTYNINE PALMS
+- ID: ENI
+  Name: MENDOCINO
+- ID: VNY
+  Name: VAN NUYS
+- ID: VCV
+  Name: VICTORVILLE
+- ID: VIS
+  Name: VISALIA
+- ID: ILA
+  Name: WILLIAMS
+- ID: OSI
+  Name: WOODSIDE
+- ID: AKO
+  Name: AKRON
+- ID: ALS
+  Name: ALAMOSA
+- ID: BRK
+  Name: BLACK FOREST
+- ID: CEZ
+  Name: CORTEZ
+- ID: DEN
+  Name: DENVER
+- ID: FQF
+  Name: FALCON
+- ID: BJC
+  Name: JEFFCO
+- ID: DVV
+  Name: MILE HIGH
+- ID: DVC
+  Name: DOVE CREEK
+- ID: DRO
+  Name: DURANGO
+- ID: DBL
+  Name: RED TABLE
+- ID: SXW
+  Name: SNOW
+- ID: FCS
+  Name: BUTTS
+- ID: GLL
+  Name: GILL
+- ID: JNC
+  Name: GRAND JUNCTION
+- ID: HBU
+  Name: BLUE MESA
+- ID: CHE
+  Name: HAYDEN
+- ID: HGO
+  Name: HUGO
+- ID: RLG
+  Name: KREMMLING
+- ID: LAA
+  Name: LAMAR
+- ID: EKR
+  Name: MEEKER
+- ID: MTJ
+  Name: MONTROSE
+- ID: PUB
+  Name: PUEBLO
+- ID: RIL
+  Name: RIFLE
+- ID: BQZ
+  Name: ROBERT
+- ID: ETL
+  Name: CONES
+- ID: TXC
+  Name: THURMAN
+- ID: TBE
+  Name: TOBE
+- ID: BDR
+  Name: BRIDGEPORT
+- ID: GON
+  Name: GROTON
+- ID: HFD
+  Name: HARTFORD
+- ID: MAD
+  Name: MADISON
+- ID: HVN
+  Name: NEW HAVEN
+- ID: ORW
+  Name: NORWICH
+- ID: PUT
+  Name: PUTNAM
+- ID: BDL
+  Name: BRADLEY
+- ID: DCA
+  Name: WASHINGTON
+- ID: ENO
+  Name: SMYRNA
+- ID: ATR
+  Name: WATERLOO
+- ID: DQO
+  Name: DUPONT
+- ID: CEW
+  Name: CRESTVIEW
+- ID: CTY
+  Name: CROSS CITY
+- ID: FLL
+  Name: FORT LAUDERDALE
+- ID: RSW
+  Name: LEE COUNTY
+- ID: GNV
+  Name: GATORS
+- ID: GEF
+  Name: GREENVILLE
+- ID: VQQ
+  Name: CECIL
+- ID: CRG
+  Name: CRAIG
+- ID: EYW
+  Name: KEY WEST
+- ID: LBV
+  Name: LA BELLE
+- ID: LAL
+  Name: LAKELAND
+- ID: MAI
+  Name: MARIANNA
+- ID: MLB
+  Name: MELBOURNE
+- ID: DHP
+  Name: DOLPHIN
+- ID: CYY
+  Name: CYPRESS
+- ID: OCF
+  Name: OCALA
+- ID: ORL
+  Name: ORLANDO
+- ID: OMN
+  Name: ORMOND BEACH
+- ID: PHK
+  Name: PAHOKEE
+- ID: HLL
+  Name: HANDLE
+- ID: NUN
+  Name: SAUFLEY
+- ID: PGD
+  Name: PUNTA GORDA
+- ID: SRQ
+  Name: SARASOTA
+- ID: SGJ
+  Name: SAINT AUGUSTINE
+- ID: PIE
+  Name: SAINT PETERSBURG
+- ID: SZW
+  Name: SEMINOLE
+- ID: TAY
+  Name: TAYLOR
+- ID: TRV
+  Name: TREASURE
+- ID: VKZ
+  Name: VIRGINIA KEY
+- ID: PBI
+  Name: PALM BEACH
+- ID: PZD
+  Name: PECAN
+- ID: AMG
+  Name: ALMA
+- ID: AHN
+  Name: ATHENS
+- ID: ATL
+  Name: ATLANTA
+- ID: PDK
+  Name: PEACHTREE
+- ID: SSI
+  Name: BRUNSWICK
+- ID: CSG
+  Name: COLUMBUS
+- ID: DBN
+  Name: DUBLIN
+- ID: LSF
+  Name: LAWSON
+- ID: HRS
+  Name: HARRIS
+- ID: LGC
+  Name: LAGRANGE
+- ID: MCN
+  Name: MACON
+- ID: MGR
+  Name: MOULTRIE
+- ID: RMG
+  Name: ROME
+- ID: SVN
+  Name: HUNTER
+- ID: SAV
+  Name: SAVANNAH
+- ID: IFM
+  Name: TIFT MYERS
+- ID: ODF
+  Name: FOOTHILLS
+- ID: OTK
+  Name: VALDOSTA
+- ID: VNA
+  Name: VIENNA
+- ID: AYS
+  Name: WAYCROSS
+- ID: UNZ
+  Name: N..E..;NIMITZ
+- ID: UPP
+  Name: UPOLU POINT
+- ID: ITO
+  Name: HILO
+- ID: HNL
+  Name: HONOLULU
+- ID: OGG
+  Name: MAUI
+- ID: KOA
+  Name: KONA
+- ID: MUE
+  Name: KAMUELA
+- ID: MKK
+  Name: MOLOKAI
+- ID: CKH
+  Name: KOKO HEAD
+- ID: LNY
+  Name: LANAI
+- ID: LIH
+  Name: LIHUE
+- ID: SOK
+  Name: SOUTH KAUAI
+- ID: BRL
+  Name: BURLINGTON
+- ID: CID
+  Name: CEDAR RAPIDS
+- ID: CVA
+  Name: DAVENPORT
+- ID: DSM
+  Name: DES MOINES
+- ID: DBQ
+  Name: DUBUQUE
+- ID: EST
+  Name: ESTHERVILLE
+- ID: FOD
+  Name: FORT DODGE
+- ID: IOW
+  Name: IOWA CITY
+- ID: LMN
+  Name: LAMONI
+- ID: JWJ
+  Name: ELMWOOD
+- ID: MCW
+  Name: MASON CITY
+- ID: OVR
+  Name: OMAHA
+- ID: DDD
+  Name: PORT CITY
+- ID: TNU
+  Name: NEWTON
+- ID: OTM
+  Name: OTTUMWA
+- ID: SUX
+  Name: SIOUX CITY
+- ID: SPW
+  Name: SPENCER
+- ID: ALO
+  Name: WATERLOO
+- ID: UKN
+  Name: WAUKON
+- ID: BOI
+  Name: BOISE
+- ID: BYI
+  Name: BURLEY
+- ID: COE
+  Name: COEUR D'ALENE
+- ID: DBS
+  Name: DUBOIS
+- ID: IDA
+  Name: IDAHO FALLS
+- ID: MQG
+  Name: NEZ PERCE
+- ID: MLD
+  Name: MALAD CITY
+- ID: DNJ
+  Name: DONNELLY
+- ID: LIA
+  Name: LIBERATOR
+- ID: MLP
+  Name: MULLAN PASS
+- ID: PIH
+  Name: POCATELLO
+- ID: LKT
+  Name: SALMON
+- ID: TWF
+  Name: TWIN FALLS
+- ID: BIB
+  Name: BIBLE GROVE
+- ID: BMI
+  Name: BLOOMINGTON
+- ID: BDF
+  Name: BRADFORD
+- ID: ENL
+  Name: CENTRALIA
+- ID: CMI
+  Name: CHAMPAIGN
+- ID: ORD
+  Name: CHICAGO O'HARE
+- ID: CGT
+  Name: CHICAGO HEIGHTS
+- ID: RFD
+  Name: ROCKFORD
+- ID: DPA
+  Name: DUPAGE
+- ID: DNV
+  Name: DANVILLE
+- ID: AXC
+  Name: ADDERS
+- ID: GBG
+  Name: GALESBURG
+- ID: IJX
+  Name: JACKSONVILLE
+- ID: JOT
+  Name: JOLIET
+- ID: IKK
+  Name: KANKAKEE
+- ID: LWV
+  Name: LAWRENCEVILLE
+- ID: MWA
+  Name: MARION
+- ID: MTO
+  Name: MATTOON
+- ID: MZV
+  Name: MOLINE
+- ID: VNN
+  Name: MOUNT VERNON
+- ID: OBK
+  Name: NORTHBROOK
+- ID: PIA
+  Name: PEORIA
+- ID: EON
+  Name: PEOTONE
+- ID: PLL
+  Name: POLO
+- ID: PNT
+  Name: PONTIAC
+- ID: UIN
+  Name: QUINCY
+- ID: RBS
+  Name: ROBERTS
+- ID: RSV
+  Name: ROBINSON
+- ID: SAM
+  Name: SAMSVILLE
+- ID: SPI
+  Name: SPINNER
+- ID: TOY
+  Name: TROY
+- ID: VLA
+  Name: VANDALIA
+- ID: OOM
+  Name: HOOSIER
+- ID: PXV
+  Name: POCKET CITY
+- ID: FWA
+  Name: FORT WAYNE
+- ID: GSH
+  Name: GOSHEN
+- ID: HNB
+  Name: HUNTINGBURG
+- ID: VHP
+  Name: BRICKYARD
+- ID: OXI
+  Name: KNOX
+- ID: OKK
+  Name: KOKOMO
+- ID: BVT
+  Name: BOILER
+- ID: MZZ
+  Name: MARION
+- ID: MIE
+  Name: MUNCIE
+- ID: ABB
+  Name: NABB
+- ID: GUS
+  Name: GRISSOM
+- ID: RID
+  Name: RICHMOND
+- ID: SHB
+  Name: SHELBYVILLE
+- ID: TTH
+  Name: TERRE HAUTE
+- ID: OLK
+  Name: WEBSTER LAKE
+- ID: ANY
+  Name: ANTHONY
+- ID: CNU
+  Name: CHANUTE
+- ID: DDC
+  Name: DODGE CITY
+- ID: EMP
+  Name: EMPORIA
+- ID: FRI
+  Name: FORT RILEY
+- ID: GCK
+  Name: GARDEN CITY
+- ID: GLD
+  Name: GOODLAND
+- ID: HYS
+  Name: HAYS
+- ID: HLC
+  Name: HILL CITY
+- ID: HUT
+  Name: HUTCHINSON
+- ID: LBL
+  Name: LIBERAL
+- ID: MHK
+  Name: MANHATTAN
+- ID: TKO
+  Name: MANKATO
+- ID: OJC
+  Name: JOHNSON COUNTY
+- ID: OSW
+  Name: OSWEGO
+- ID: RBA
+  Name: ROBINSON
+- ID: SLN
+  Name: SALINA
+- ID: TOP
+  Name: TOPEKA
+- ID: ICT
+  Name: WICHITA
+- ID: BWG
+  Name: BOWLING GREEN
+- ID: CCT
+  Name: CENTRAL CITY
+- ID: CVG
+  Name: CINCINNATI
+- ID: FLM
+  Name: FALMOUTH
+- ID: FTK
+  Name: FORT KNOX
+- ID: FFT
+  Name: FRANKFORT
+- ID: AZQ
+  Name: HAZARD
+- ID: HYK
+  Name: LEXINGTON
+- ID: LOZ
+  Name: LONDON
+- ID: BQM
+  Name: BOWMAN
+- ID: IIU
+  Name: LOUISVILLE
+- ID: MYS
+  Name: MYSTIC
+- ID: EWO
+  Name: NEW HOPE
+- ID: ECB
+  Name: NEWCOMBE
+- ID: OWB
+  Name: OWENSBORO
+- ID: CNG
+  Name: CUNNINGHAM
+- ID: YRK
+  Name: YORK
+- ID: AEX
+  Name: ALEXANDRIA
+- ID: BTR
+  Name: BATON ROUGE
+- ID: FXU
+  Name: POLK
+- ID: LEV
+  Name: LEEVILLE
+- ID: HMU
+  Name: HAMMOND
+- ID: LFT
+  Name: LAFAYETTE
+- ID: LCH
+  Name: LAKE CHARLES
+- ID: MLU
+  Name: MONROE
+- ID: HRV
+  Name: HARVEY
+- ID: RQR
+  Name: RESERVE
+- ID: EIC
+  Name: BELCHER
+- ID: DTN
+  Name: DOWNTOWN
+- ID: EMG
+  Name: ELM GROVE
+- ID: TBD
+  Name: TIBBY
+- ID: LLA
+  Name: WHITE LAKE
+- ID: SWB
+  Name: SAWMILL
+- ID: BOS
+  Name: BOSTON
+- ID: CTR
+  Name: CHESTER
+- ID: GDM
+  Name: GARDNER
+- ID: LWM
+  Name: LAWRENCE
+- ID: ACK
+  Name: NANTUCKET
+- ID: LFV
+  Name: MARCONI
+- ID: CEF
+  Name: WESTOVER
+- ID: MVY
+  Name: MARTHAS VINEYARD
+- ID: BAF
+  Name: BARNES
+- ID: PPM
+  Name: PHILLIPS
+- ID: BAL
+  Name: BALTIMORE
+- ID: ADW
+  Name: ANDREWS
+- ID: FDK
+  Name: FREDERICK
+- ID: GRV
+  Name: GRANTSVILLE
+- ID: HGR
+  Name: HAGERSTOWN
+- ID: OTT
+  Name: NOTTINGHAM
+- ID: PXT
+  Name: PATUXENT
+- ID: SBY
+  Name: SALISBURY
+- ID: SWL
+  Name: SNOW HILL
+- ID: EMI
+  Name: WESTMINSTER
+- ID: AUG
+  Name: AUGUSTA
+- ID: BGR
+  Name: BANGOR
+- ID: HUL
+  Name: HOULTON
+- ID: ENE
+  Name: KENNEBUNK
+- ID: MLT
+  Name: MILLINOCKET
+- ID: PQI
+  Name: PRESQUE ISLE
+- ID: PNN
+  Name: PRINCETON
+- ID: APN
+  Name: ALPENA
+- ID: BAX
+  Name: BAD AXE
+- ID: BTL
+  Name: BATTLE CREEK
+- ID: CRL
+  Name: CARLETON
+- ID: DXO
+  Name: DETROIT
+- ID: ESC
+  Name: ESCANABA
+- ID: FNT
+  Name: FLINT
+- ID: GLR
+  Name: GAYLORD
+- ID: VIO
+  Name: VICTORY
+- ID: CGG
+  Name: GRAYLING
+- ID: CMX
+  Name: HOUGHTON
+- ID: HTL
+  Name: HOUGHTON LAKE
+- ID: IMT
+  Name: IRON MOUNTAIN
+- ID: IWD
+  Name: IRONWOOD
+- ID: JXN
+  Name: JACKSON
+- ID: AZO
+  Name: KALAMAZOO
+- ID: ELX
+  Name: KEELER
+- ID: LAN
+  Name: LANSING
+- ID: LFD
+  Name: LITCHFIELD
+- ID: MBL
+  Name: MANISTEE
+- ID: ISQ
+  Name: SCHOOLCRAFT COUNTY
+- ID: SAW
+  Name: SAWYER
+- ID: MNM
+  Name: MENOMINEE
+- ID: MOP
+  Name: MOUNT PLEASANT
+- ID: MKG
+  Name: MUSKEGON
+- ID: ERY
+  Name: NEWBERRY
+- ID: GIJ
+  Name: GIPPER
+- ID: ASP
+  Name: AU SABLE
+- ID: ECK
+  Name: PECK
+- ID: PLN
+  Name: PELLSTON
+- ID: PSI
+  Name: PONTIAC
+- ID: PMM
+  Name: PULLMAN
+- ID: MBS
+  Name: SAGINAW
+- ID: SVM
+  Name: SALEM
+- ID: SSM
+  Name: SAULT STE MARIE
+- ID: TVC
+  Name: TRAVERSE CITY
+- ID: BXZ
+  Name: WEST BRANCH
+- ID: HIC
+  Name: WHITE CLOUD
+- ID: AEL
+  Name: ALBERT LEA
+- ID: AXN
+  Name: ALEXANDRIA
+- ID: JAY
+  Name: AUSTIN
+- ID: BDE
+  Name: BAUDETTE
+- ID: IDJ
+  Name: LAKE BEMIDJI
+- ID: BRD
+  Name: BRAINERD
+- ID: DWN
+  Name: DARWIN
+- ID: DTL
+  Name: DETROIT LAKES
+- ID: DLH
+  Name: DULUTH
+- ID: ELO
+  Name: ELY
+- ID: EVM
+  Name: EVELETH
+- ID: FRM
+  Name: FAIRMONT
+- ID: FGT
+  Name: FARMINGTON
+- ID: FFM
+  Name: FERGUS FALLS
+- ID: GPZ
+  Name: GRAND RAPIDS
+- ID: HIB
+  Name: HIBBING
+- ID: HML
+  Name: HUMBOLDT
+- ID: INL
+  Name: INTERNATIONAL FALLS
+- ID: MKT
+  Name: MANKATO
+- ID: MML
+  Name: MARSHALL
+- ID: FCM
+  Name: FLYING CLOUD
+- ID: GEP
+  Name: GOPHER
+- ID: MSP
+  Name: MINNEAPOLIS
+- ID: MVE
+  Name: MONTEVIDEO
+- ID: MOX
+  Name: MORRIS
+- ID: FOW
+  Name: HALFWAY
+- ID: ODI
+  Name: NODINE
+- ID: PKD
+  Name: PARK RAPIDS
+- ID: RWF
+  Name: REDWOOD FALLS
+- ID: RST
+  Name: ROCHESTER
+- ID: ROX
+  Name: ROSEAU
+- ID: STC
+  Name: SAINT CLOUD
+- ID: TVF
+  Name: THIEF RIVER FALLS
+- ID: BDH
+  Name: WILLMAR
+- ID: ONA
+  Name: WINONA
+- ID: OTG
+  Name: WORTHINGTON
+- ID: BQS
+  Name: BRAYMER
+- ID: BUM
+  Name: BUTLER
+- ID: CGI
+  Name: CAPE GIRARDEAU
+- ID: COU
+  Name: COLUMBIA
+- ID: DGD
+  Name: DOGWOOD
+- ID: FAM
+  Name: FARMINGTON
+- ID: FTZ
+  Name: FORISTELL
+- ID: TBN
+  Name: FORNEY
+- ID: HLV
+  Name: HALLSVILLE
+- ID: SHY
+  Name: SUNSHINE
+- ID: MCI
+  Name: KANSAS CITY
+- ID: RIS
+  Name: RIVERSIDE
+- ID: IRK
+  Name: KIRKSVILLE
+- ID: MCM
+  Name: MACON
+- ID: MAW
+  Name: MALDEN
+- ID: MAP
+  Name: MAPLES
+- ID: ANX
+  Name: NAPOLEON
+- ID: EOS
+  Name: NEOSHO
+- ID: VIH
+  Name: VICHY
+- ID: SGF
+  Name: SPRINGFIELD
+- ID: STJ
+  Name: SAINT JOSEPH
+- ID: CSX
+  Name: CARDINAL
+- ID: STL
+  Name: SAINT LOUIS
+- ID: HUW
+  Name: HUTTON
+- ID: IGB
+  Name: BIGBEE
+- ID: CBM
+  Name: CALEDONIA
+- ID: GLH
+  Name: GREENVILLE
+- ID: GPT
+  Name: GULFPORT
+- ID: LBY
+  Name: EATON
+- ID: HLI
+  Name: HOLLY SPRINGS
+- ID: JAN
+  Name: JACKSON
+- ID: EWA
+  Name: KEWANEE
+- ID: GCV
+  Name: GREENE COUNTY
+- ID: MHZ
+  Name: MAGNOLIA
+- ID: MCB
+  Name: MC COMB
+- ID: MEI
+  Name: MERIDIAN
+- ID: HEZ
+  Name: NATCHEZ
+- ID: PCU
+  Name: PICAYUNE
+- ID: SQS
+  Name: SIDON
+- ID: OTB
+  Name: TUPELO
+- ID: BIL
+  Name: BILLINGS
+- ID: BZN
+  Name: BOZEMAN
+- ID: CPN
+  Name: COPPERTOWN
+- ID: CTB
+  Name: CUT BANK
+- ID: DLN
+  Name: DILLON
+- ID: GGW
+  Name: GLASGOW
+- ID: GTF
+  Name: GREAT FALLS
+- ID: HVR
+  Name: HAVRE
+- ID: HLN
+  Name: HELENA
+- ID: FCA
+  Name: KALISPELL
+- ID: LWT
+  Name: LEWISTOWN
+- ID: LVM
+  Name: LIVINGSTON
+- ID: MLS
+  Name: MILES CITY
+- ID: MSO
+  Name: MISSOULA
+- ID: HIA
+  Name: WHITEHALL
+- ID: SUG
+  Name: SUGARLOAF MOUNTAIN
+- ID: CLT
+  Name: CHARLOTTE
+- ID: CVI
+  Name: COFIELD
+- ID: ECG
+  Name: ELIZABETH CITY
+- ID: FAY
+  Name: FAYETTEVILLE
+- ID: GSO
+  Name: GREENSBORO
+- ID: BZM
+  Name: BARRETTS MOUNTAIN
+- ID: ISO
+  Name: KINSTON
+- ID: LIB
+  Name: LIBERTY
+- ID: LBT
+  Name: LUMBERTON
+- ID: RBX
+  Name: WRIGHT BROTHERS
+- ID: EWN
+  Name: NEW BERN
+- ID: RDU
+  Name: RALEIGH/DURHAM
+- ID: TYI
+  Name: TAR RIVER
+- ID: SDZ
+  Name: SANDHILLS
+- ID: ILM
+  Name: WILMINGTON
+- ID: BIS
+  Name: BISMARCK
+- ID: DVL
+  Name: DEVILS LAKE
+- ID: DIK
+  Name: DICKINSON
+- ID: FAR
+  Name: FARGO
+- ID: GFK
+  Name: GRAND FORKS
+- ID: JMS
+  Name: JAMESTOWN
+- ID: MOT
+  Name: MINOT
+- ID: ANW
+  Name: AINSWORTH
+- ID: AIA
+  Name: ALLIANCE
+- ID: BIE
+  Name: BEATRICE
+- ID: CUZ
+  Name: CUSTER COUNTY
+- ID: TST
+  Name: TOADSTOOL
+- ID: OLU
+  Name: COLUMBUS
+- ID: OZB
+  Name: COZAD
+- ID: GRI
+  Name: GRAND ISLAND
+- ID: HSI
+  Name: HASTINGS
+- ID: HCT
+  Name: HAYES CENTER
+- ID: EAR
+  Name: KEARNEY
+- ID: LNK
+  Name: LINCOLN
+- ID: MCK
+  Name: MC COOK
+- ID: OFK
+  Name: NORFOLK
+- ID: LBF
+  Name: NORTH PLATTE
+- ID: ONL
+  Name: O'NEILL
+- ID: SAE
+  Name: SEARLE
+- ID: PWE
+  Name: PAWNEE CITY
+- ID: BFF
+  Name: SCOTTSBLUFF
+- ID: SCB
+  Name: SCRIBNER
+- ID: SNY
+  Name: SIDNEY
+- ID: TQE
+  Name: TEKAMAH
+- ID: TDD
+  Name: THEDFORD
+- ID: OBH
+  Name: WOLBACH
+- ID: BML
+  Name: BERLIN
+- ID: CON
+  Name: CONCORD
+- ID: EEN
+  Name: KEENE
+- ID: LEB
+  Name: LEBANON
+- ID: MHT
+  Name: MANCHESTER
+- ID: PSM
+  Name: PEASE
+- ID: ACY
+  Name: ATLANTIC CITY
+- ID: COL
+  Name: COLTS NECK
+- ID: CYN
+  Name: COYLE
+- ID: VCN
+  Name: CEDAR LAKE
+- ID: RBV
+  Name: ROBBINSVILLE
+- ID: BWZ
+  Name: BROADWAY
+- ID: SIE
+  Name: SEA ISLE
+- ID: SBJ
+  Name: SOLBERG
+- ID: SAX
+  Name: SPARTA
+- ID: STW
+  Name: STILLWATER
+- ID: TEB
+  Name: TETERBORO
+- ID: OOD
+  Name: WOODSTOWN
+- ID: GXU
+  Name: MC GUIRE
+- ID: BWS
+  Name: BOLES
+- ID: ABQ
+  Name: ALBUQUERQUE
+- ID: ACH
+  Name: ANTON CHICO
+- ID: CNM
+  Name: CARLSBAD
+- ID: CIM
+  Name: CIMARRON
+- ID: CUS
+  Name: COLUMBUS
+- ID: CNX
+  Name: CORONA
+- ID: DMN
+  Name: DEMING
+- ID: RSK
+  Name: RATTLESNAKE
+- ID: GUP
+  Name: GALLUP
+- ID: HOB
+  Name: HOBBS
+- ID: FTI
+  Name: FORT UNION
+- ID: OTO
+  Name: OTTO
+- ID: PIO
+  Name: PINON
+- ID: CME
+  Name: CHISUM
+- ID: SAF
+  Name: SANTA FE
+- ID: SVC
+  Name: SILVER CITY
+- ID: ONM
+  Name: SOCORRO
+- ID: TAS
+  Name: TAOS
+- ID: TCS
+  Name: TRUTH OR CONSEQUENCES
+- ID: TCC
+  Name: TUCUMCARI
+- ID: ZUN
+  Name: ZUNI
+- ID: BAM
+  Name: BATTLE MOUNTAIN
+- ID: BTY
+  Name: BEATTY
+- ID: BLD
+  Name: BOULDER CITY
+- ID: OAL
+  Name: COALDALE
+- ID: BQU
+  Name: BULLION
+- ID: ELY
+  Name: ELY
+- ID: HZN
+  Name: HAZEN
+- ID: LAS
+  Name: LAS VEGAS
+- ID: LLC
+  Name: LOVELOCK
+- ID: MVA
+  Name: MINA
+- ID: MMM
+  Name: MORMON MESA
+- ID: FMG
+  Name: MUSTANG
+- ID: SDO
+  Name: SOD HOUSE
+- ID: TQQ
+  Name: SILVERBOW
+- ID: TPH
+  Name: TONOPAH
+- ID: LWL
+  Name: WELLS
+- ID: ILC
+  Name: WILSON CREEK
+- ID: INA
+  Name: WINNEMUCCA
+- ID: ALB
+  Name: ALBANY
+- ID: CFB
+  Name: BINGHAMTON
+- ID: BUF
+  Name: BUFFALO
+- ID: CCC
+  Name: CALVERTON
+- ID: CAM
+  Name: CAMBRIDGE
+- ID: CRI
+  Name: CANARSIE
+- ID: CMK
+  Name: CARMEL
+- ID: DPK
+  Name: DEER PARK
+- ID: DNY
+  Name: DELANCEY
+- ID: DKK
+  Name: DUNKIRK
+- ID: HTO
+  Name: HAMPTON
+- ID: ULW
+  Name: ELMIRA
+- ID: GEE
+  Name: GENESEO
+- ID: GGT
+  Name: GEORGETOWN
+- ID: GFL
+  Name: GLENS FALLS
+- ID: HNK
+  Name: HANCOCK
+- ID: HUO
+  Name: HUGUENOT
+- ID: ITH
+  Name: ITHACA
+- ID: JHW
+  Name: JAMESTOWN
+- ID: IGN
+  Name: KINGSTON
+- ID: MSS
+  Name: MASSENA
+- ID: JFK
+  Name: KENNEDY
+- ID: LGA
+  Name: LA GUARDIA
+- ID: PLB
+  Name: PLATTSBURGH
+- ID: PWL
+  Name: PAWLING
+- ID: ROC
+  Name: ROCHESTER
+- ID: RKA
+  Name: ROCKDALE
+- ID: SLK
+  Name: SARANAC LAKE
+- ID: SYR
+  Name: SYRACUSE
+- ID: UCA
+  Name: UTICA
+- ID: ART
+  Name: WATERTOWN
+- ID: ELZ
+  Name: WELLSVILLE
+- ID: ACO
+  Name: AKRON
+- ID: APE
+  Name: APPLETON
+- ID: AIR
+  Name: BELLAIRE
+- ID: BSV
+  Name: BRIGGS
+- ID: CXR
+  Name: CHARDON
+- ID: XUB
+  Name: YELLOW BUD
+- ID: DJB
+  Name: DRYER
+- ID: DQN
+  Name: DAYTON
+- ID: FBC
+  Name: FLAG CITY
+- ID: JFN
+  Name: JEFFERSON
+- ID: AOH
+  Name: ALLEN COUNTY
+- ID: MFD
+  Name: MANSFIELD
+- ID: BUD
+  Name: BUCKEYE
+- ID: CTW
+  Name: NEWCOMERSTOWN
+- ID: ROD
+  Name: ROSEWOOD
+- ID: SKY
+  Name: SANDUSKY
+- ID: SGH
+  Name: SPRINGFIELD
+- ID: TVT
+  Name: TIVERTON
+- ID: VWV
+  Name: WATERVILLE
+- ID: MXQ
+  Name: MIDWEST
+- ID: YNG
+  Name: YOUNGSTOWN
+- ID: ZZV
+  Name: ZANESVILLE
+- ID: ADH
+  Name: ADA
+- ID: LTS
+  Name: ALTUS
+- ID: ADM
+  Name: ARDMORE
+- ID: BVO
+  Name: BARTLESVILLE
+- ID: BFV
+  Name: BURNS FLAT
+- ID: DUC
+  Name: DUNCAN
+- ID: URH
+  Name: TEXOMA
+- ID: END
+  Name: VANCE
+- ID: ODG
+  Name: WOODRING
+- ID: MMB
+  Name: MITBEE
+- ID: HBR
+  Name: HOBART
+- ID: IFI
+  Name: KINGFISHER
+- ID: LAW
+  Name: LAWTON
+- ID: MLC
+  Name: MC ALESTER
+- ID: PWA
+  Name: WILEY POST
+- ID: IRW
+  Name: WILL ROGERS
+- ID: OKM
+  Name: OKMULGEE
+- ID: PGO
+  Name: RICH MOUNTAIN
+- ID: PER
+  Name: PIONEER
+- ID: SYO
+  Name: SAYRE
+- ID: SWO
+  Name: STILLWATER
+- ID: GNP
+  Name: GLENPOOL
+- ID: TUL
+  Name: TULSA
+- ID: AST
+  Name: ASTORIA
+- ID: BKE
+  Name: BAKER CITY
+- ID: ILR
+  Name: WILDHORSE
+- ID: CVO
+  Name: CORVALLIS
+- ID: EUG
+  Name: EUGENE
+- ID: IMB
+  Name: KIMBERLY
+- ID: LMT
+  Name: KLAMATH FALLS
+- ID: LKV
+  Name: LAKEVIEW
+- ID: OED
+  Name: ROGUE VALLEY
+- ID: UBG
+  Name: NEWBERG
+- ID: ONP
+  Name: NEWPORT
+- ID: OTH
+  Name: NORTH BEND
+- ID: PDT
+  Name: PENDLETON
+- ID: PDX
+  Name: PORTLAND
+- ID: DSD
+  Name: DESCHUTES
+- ID: REO
+  Name: ROME
+- ID: LTJ
+  Name: KLICKITAT
+- ID: FJC
+  Name: ALLENTOWN
+- ID: AOO
+  Name: ALTOONA
+- ID: BFD
+  Name: BRADFORD
+- ID: CIP
+  Name: CLARION
+- ID: ETX
+  Name: EAST TEXAS
+- ID: EWC
+  Name: ELLWOOD CITY
+- ID: ERI
+  Name: ERIE
+- ID: FKL
+  Name: FRANKLIN
+- ID: HAR
+  Name: HARRISBURG
+- ID: HZL
+  Name: HAZLETON
+- ID: JST
+  Name: JOHNSTOWN
+- ID: ETG
+  Name: KEATING
+- ID: LRP
+  Name: LANCASTER
+- ID: MIP
+  Name: MILTON
+- ID: MXE
+  Name: MODENA
+- ID: PNE
+  Name: NORTH PHILADELPHIA
+- ID: PSB
+  Name: PHILIPSBURG
+- ID: AGC
+  Name: ALLEGHENY
+- ID: MMJ
+  Name: MONTOUR
+- ID: PTW
+  Name: POTTSTOWN
+- ID: RAV
+  Name: RAVINE
+- ID: REC
+  Name: REVLOC
+- ID: SEG
+  Name: SELINSGROVE
+- ID: IHD
+  Name: INDIAN HEAD
+- ID: SLT
+  Name: SLATE RUN
+- ID: THS
+  Name: SAINT THOMAS
+- ID: SFK
+  Name: STONYFORK
+- ID: TDT
+  Name: TIDIOUTE
+- ID: TON
+  Name: TYRONE
+- ID: LVZ
+  Name: WILKES-BARRE
+- ID: LHY
+  Name: LAKE HENRY
+- ID: FQM
+  Name: WILLIAMSPORT
+- ID: ARD
+  Name: YARDLEY
+- ID: BQN
+  Name: BORINQUEN
+- ID: PSE
+  Name: PONCE
+- ID: SJU
+  Name: SAN JUAN
+- ID: SEY
+  Name: SANDY POINT
+- ID: PVD
+  Name: PROVIDENCE
+- ID: ALD
+  Name: ALLENDALE
+- ID: ELW
+  Name: ELECTRIC CITY
+- ID: CHS
+  Name: CHARLESTON
+- ID: CTF
+  Name: CHESTERFIELD
+- ID: IRQ
+  Name: COLLIERS
+- ID: CAE
+  Name: COLUMBIA
+- ID: MMT
+  Name: MC ENTIRE
+- ID: FLO
+  Name: FLORENCE
+- ID: GRD
+  Name: GREENWOOD
+- ID: CRE
+  Name: GRAND STRAND
+- ID: EDS
+  Name: EDISTO
+- ID: SPA
+  Name: SPARTANBURG
+- ID: VAN
+  Name: VANCE
+- ID: ABR
+  Name: ABERDEEN
+- ID: BKX
+  Name: BROOKINGS
+- ID: BUA
+  Name: BUFFALO
+- ID: DPR
+  Name: DUPREE
+- ID: HON
+  Name: HURON
+- ID: LEM
+  Name: LEMMON
+- ID: MHE
+  Name: MITCHELL
+- ID: PHP
+  Name: PHILIP
+- ID: PIR
+  Name: PIERRE
+- ID: RAP
+  Name: RAPID CITY
+- ID: FSD
+  Name: SIOUX FALLS
+- ID: ATY
+  Name: WATERTOWN
+- ID: ISD
+  Name: WINNER
+- ID: YKN
+  Name: YANKTON
+- ID: GHM
+  Name: GRAHAM
+- ID: GQO
+  Name: CHOO CHOO
+- ID: CKV
+  Name: CLARKSVILLE
+- ID: HCH
+  Name: HINCH MOUNTAIN
+- ID: DYR
+  Name: DYERSBURG
+- ID: HMV
+  Name: HOLSTON MOUNTAIN
+- ID: JKS
+  Name: JACKS CREEK
+- ID: MKL
+  Name: MC KELLAR
+- ID: VXV
+  Name: VOLUNTEER
+- ID: LVT
+  Name: LIVINGSTON
+- ID: MEM
+  Name: MEMPHIS
+- ID: BNA
+  Name: NASHVILLE
+- ID: SYI
+  Name: SHELBYVILLE
+- ID: SOT
+  Name: SNOWBIRD
+- ID: UXM
+  Name: TULLAHOMA REGIONAL
+- ID: ABI
+  Name: ABILENE
+- ID: TQA
+  Name: TUSCOLA
+- ID: ALI
+  Name: ALICE
+- ID: PNH
+  Name: PANHANDLE
+- ID: CWK
+  Name: CENTEX
+- ID: BPT
+  Name: BEAUMONT
+- ID: BGS
+  Name: BIG SPRING
+- ID: BYP
+  Name: BONHAM
+- ID: BGD
+  Name: BORGER
+- ID: UKW
+  Name: BOWIE
+- ID: BRO
+  Name: BROWNSVILLE
+- ID: BWD
+  Name: BROWNWOOD
+- ID: CQY
+  Name: CEDAR CREEK
+- ID: CDS
+  Name: CHILDRESS
+- ID: CLL
+  Name: COLLEGE STATION
+- ID: CRP
+  Name: CORPUS CHRISTI
+- ID: NGP
+  Name: TRUAX
+- ID: COT
+  Name: COTULLA
+- ID: DAS
+  Name: DAISETTA
+- ID: DHT
+  Name: DALHART
+- ID: CVE
+  Name: COWBOY
+- ID: TTT
+  Name: MAVERICK
+- ID: FUZ
+  Name: RANGER
+- ID: DLF
+  Name: LAUGHLIN
+- ID: ELA
+  Name: EAGLE LAKE
+- ID: ELP
+  Name: EL PASO
+- ID: GRK
+  Name: GRAY
+- ID: FST
+  Name: FORT STOCKTON
+- ID: FZT
+  Name: FRANKSTON
+- ID: VUH
+  Name: SCHOLES
+- ID: JEN
+  Name: GLEN ROSE
+- ID: GTH
+  Name: GUTHRIE
+- ID: HRL
+  Name: HARLINGEN
+- ID: HDO
+  Name: HONDO
+- ID: HUB
+  Name: HOBBY
+- ID: IAH
+  Name: HUMBLE
+- ID: HUP
+  Name: HUDSPETH
+- ID: IDU
+  Name: INDUSTRY
+- ID: JCT
+  Name: JUNCTION
+- ID: CSI
+  Name: CENTER POINT
+- ID: AGJ
+  Name: GOOCH SPRINGS
+- ID: LRD
+  Name: LAREDO
+- ID: LOA
+  Name: LEONA
+- ID: LLO
+  Name: LLANO
+- ID: GGG
+  Name: GREGG COUNTY
+- ID: LBB
+  Name: LUBBOCK
+- ID: LFK
+  Name: LUFKIN
+- ID: MRF
+  Name: MARFA
+- ID: MFE
+  Name: MC ALLEN
+- ID: GNL
+  Name: GROESBECK
+- ID: MAF
+  Name: MIDLAND
+- ID: MQP
+  Name: MILLSAP
+- ID: TNV
+  Name: NAVASOTA
+- ID: EWM
+  Name: NEWMAN
+- ID: PSX
+  Name: PALACIOS
+- ID: PRX
+  Name: PARIS
+- ID: PEQ
+  Name: PECOS
+- ID: PVW
+  Name: PLAINVIEW
+- ID: UIM
+  Name: QUITMAN
+- ID: RSG
+  Name: ROCKSPRINGS
+- ID: SBI
+  Name: SABINE PASS
+- ID: SFL
+  Name: SALT FLAT
+- ID: SJT
+  Name: SAN ANGELO
+- ID: SAT
+  Name: SAN ANTONIO
+- ID: SSF
+  Name: STINSON
+- ID: MHF
+  Name: TRINITY
+- ID: STV
+  Name: STONEWALL
+- ID: SLR
+  Name: SULPHUR SPRINGS
+- ID: TPL
+  Name: TEMPLE
+- ID: TXO
+  Name: TEXICO
+- ID: THX
+  Name: THREE RIVERS
+- ID: TYR
+  Name: TYLER
+- ID: RND
+  Name: RANDOLPH
+- ID: VCT
+  Name: VICTORIA
+- ID: ACT
+  Name: WACO
+- ID: SPS
+  Name: WICHITA FALLS
+- ID: INK
+  Name: WINK
+- ID: BVL
+  Name: BONNEVILLE
+- ID: BCE
+  Name: BRYCE CANYON
+- ID: CDC
+  Name: CEDAR CITY
+- ID: DTA
+  Name: DELTA
+- ID: HVE
+  Name: HANKSVILLE
+- ID: LHO
+  Name: BRIGHAM CITY
+- ID: LCU
+  Name: LUCIN
+- ID: MLF
+  Name: MILFORD
+- ID: OAB
+  Name: MOAB
+- ID: MTU
+  Name: MYTON
+- ID: OGD
+  Name: OGDEN
+- ID: PUC
+  Name: CARBON
+- ID: FFU
+  Name: FAIRFIELD
+- ID: PVU
+  Name: PROVO
+- ID: TCH
+  Name: WASATCH
+- ID: UTI
+  Name: SAINT GEORGE
+- ID: VEL
+  Name: VERNAL
+- ID: GZG
+  Name: GLADE SPRING
+- ID: BRV
+  Name: BROOKE
+- ID: CCV
+  Name: CAPE CHARLES
+- ID: CSN
+  Name: CASANOVA
+- ID: DAN
+  Name: DANVILLE
+- ID: PSK
+  Name: PULASKI
+- ID: FAK
+  Name: FLAT ROCK
+- ID: FKN
+  Name: FRANKLIN
+- ID: GVE
+  Name: GORDONSVILLE
+- ID: HCM
+  Name: HARCUM
+- ID: AML
+  Name: ARMEL
+- ID: HPW
+  Name: HOPEWELL
+- ID: LVL
+  Name: LAWRENCEVILLE
+- ID: LDN
+  Name: LINDEN
+- ID: LYH
+  Name: LYNCHBURG
+- ID: MOL
+  Name: MONTEBELLO
+- ID: ORF
+  Name: NORFOLK
+- ID: RIC
+  Name: RICHMOND
+- ID: ROA
+  Name: ROANOKE
+- ID: ODR
+  Name: WOODRUM
+- ID: SBV
+  Name: SOUTH BOSTON
+- ID: STT
+  Name: SAINT THOMAS
+- ID: COY
+  Name: SAINT CROIX
+- ID: MPV
+  Name: MONTPELIER
+- ID: BTV
+  Name: BURLINGTON
+- ID: RUT
+  Name: RUTLAND
+- ID: BTG
+  Name: BATTLE GROUND
+- ID: HUH
+  Name: WHATCOM
+- ID: CVV
+  Name: PENN COVE
+- ID: ELN
+  Name: ELLENSBURG
+- ID: EPH
+  Name: EPHRATA
+- ID: PAE
+  Name: PAINE
+- ID: HQM
+  Name: HOQUIAM
+- ID: MWH
+  Name: MOSES LAKE
+- ID: TOU
+  Name: TATOOSH
+- ID: OLM
+  Name: OLYMPIA
+- ID: PSC
+  Name: PASCO
+- ID: PUW
+  Name: PULLMAN
+- ID: SEA
+  Name: SEATTLE
+- ID: GEG
+  Name: SPOKANE
+- ID: TCM
+  Name: MCCHORD
+- ID: ALW
+  Name: WALLA WALLA
+- ID: EAT
+  Name: WENATCHEE
+- ID: YKM
+  Name: YAKIMA
+- ID: ASX
+  Name: ASHLAND
+- ID: DLL
+  Name: DELLS
+- ID: BUU
+  Name: BURBUN
+- ID: EAU
+  Name: EAU CLAIRE
+- ID: GRB
+  Name: GREEN BAY
+- ID: HYR
+  Name: HAYWARD
+- ID: ENW
+  Name: KENOSHA
+- ID: LSE
+  Name: LA CROSSE
+- ID: LNR
+  Name: LONE ROCK
+- ID: MSN
+  Name: MADISON
+- ID: MTW
+  Name: MANITOWOC
+- ID: BAE
+  Name: BADGER
+- ID: LJT
+  Name: TIMMERMAN
+- ID: OSH
+  Name: OSHKOSH
+- ID: HRK
+  Name: HORLICK
+- ID: RHI
+  Name: RHINELANDER
+- ID: RPD
+  Name: RICE LAKE
+- ID: FAH
+  Name: FALLS
+- ID: RZN
+  Name: SIREN
+- ID: STE
+  Name: STEVENS POINT
+- ID: AUW
+  Name: WAUSAU
+- ID: BJB
+  Name: WEST BEND
+- ID: AWK
+  Name: WAKE ISLAND
+- ID: BKW
+  Name: BECKLEY
+- ID: BLF
+  Name: BLUEFIELD
+- ID: HVQ
+  Name: CHARLESTON
+- ID: CKB
+  Name: CLARKSBURG
+- ID: EKN
+  Name: ELKINS
+- ID: HNN
+  Name: HENDERSON
+- ID: ESL
+  Name: KESSEL
+- ID: LWB
+  Name: GREENBRIER
+- ID: MRB
+  Name: MARTINSBURG
+- ID: MGW
+  Name: MORGANTOWN
+- ID: JPU
+  Name: PARKERSBURG
+- ID: RNL
+  Name: RAINELLE
+- ID: HLG
+  Name: WHEELING
+- ID: BPI
+  Name: BIG PINEY
+- ID: BOY
+  Name: BOYSEN RESERVOIR
+- ID: DDY
+  Name: MUDDY MOUNTAIN
+- ID: CKW
+  Name: CHEROKEE
+- ID: CYS
+  Name: CHEYENNE
+- ID: COD
+  Name: CODY
+- ID: CZI
+  Name: CRAZY WOMAN
+- ID: IIP
+  Name: HIPSHER
+- ID: DNW
+  Name: DUNOIR
+- ID: EVW
+  Name: EVANSTON
+- ID: FBR
+  Name: FORT BRIDGER
+- ID: GCC
+  Name: GILLETTE
+- ID: JAC
+  Name: JACKSON
+- ID: LAR
+  Name: LARAMIE
+- ID: MBW
+  Name: MEDICINE BOW
+- ID: ECS
+  Name: NEWCASTLE
+- ID: RWL
+  Name: RAWLINS
+- ID: RIW
+  Name: RIVERTON
+- ID: OCS
+  Name: ROCK SPRINGS
+- ID: SHR
+  Name: SHERIDAN
+- ID: RLY
+  Name: WORLAND
+- ID: ZTC
+  Name: TREASURE CAY
+- ID: YQO
+  Name: AYLMER
+- ID: YBC
+  Name: BAIE COMEAU
+- ID: BGI
+  Name: ADAMS
+- ID: BAQ
+  Name: BARRANQUILLA
+- ID: VLV
+  Name: BEAUCE
+- ID: ZBV
+  Name: BIMINI
+- ID: BDT
+  Name: BOCAS DEL TORO
+- ID: YBR
+  Name: BRANDON
+- ID: CBC
+  Name: CABO CODERA
+- ID: DCR
+  Name: CABO ROJO
+- ID: YYC
+  Name: CALGARY
+- ID: UCM
+  Name: CAMAGUEY
+- ID: YCF
+  Name: CAMPBELLFORD
+- ID: CPE
+  Name: CAMPECHE
+- ID: HCN
+  Name: CAP HAITIEN
+- ID: YYG
+  Name: CHARLOTTETOWN
+- ID: CUU
+  Name: CHIHUAHUA
+- ID: CJS
+  Name: CIUDAD JUAREZ
+- ID: CEN
+  Name: CIUDAD OBREGON
+- ID: VIE
+  Name: COEHILL
+- ID: FNC
+  Name: ENRIQUE JIMENEZ
+- ID: CDR
+  Name: CONCEPCION DEL ORO
+- ID: CRO
+  Name: CORO
+- ID: YXC
+  Name: CRANBROOK
+- ID: CUL
+  Name: CULIACAN
+- ID: PJG
+  Name: CURACAO
+- ID: DGO
+  Name: DURANGO
+- ID: YFC
+  Name: FREDERICTON
+- ID: YGP
+  Name: GASPE
+- ID: GCM
+  Name: GRAND CAYMAN
+- ID: TIM
+  Name: TIMEHRI
+- ID: LRS
+  Name: GRAN ROQUE
+- ID: GTK
+  Name: GRAND TURK
+- ID: YHZ
+  Name: HALIFAX
+- ID: BDA
+  Name: BERMUDA
+- ID: HMO
+  Name: HERMOSILLO
+- ID: YGR
+  Name: GRINDSTONE
+- ID: VBI
+  Name: SIOUX NARROWS
+- ID: YXI
+  Name: KILLALOE
+- ID: MLY
+  Name: MANLEY
+- ID: PML
+  Name: LA PALMA
+- ID: LAP
+  Name: LA PAZ
+- ID: VLR
+  Name: LANGRUTH
+- ID: DEL
+  Name: DELICIAS
+- ID: YQL
+  Name: LETHBRIDGE
+- ID: YXU
+  Name: LONDON
+- ID: VLN
+  Name: LUMSDEN
+- ID: MI
+  Name: MAIQUETIA
+- ID: YSP
+  Name: MARATHON
+- ID: MTA
+  Name: MARGARITA
+- ID: MAM
+  Name: MATAMOROS
+- ID: MZT
+  Name: MAZATLAN
+- ID: YXH
+  Name: MEDICINE HAT
+- ID: MXL
+  Name: MEXICALI
+- ID: YEE
+  Name: MIDLAND
+- ID: MTT
+  Name: MINATITLAN
+- ID: MOV
+  Name: MONCLOVA
+- ID: YQM
+  Name: MONCTON
+- ID: YYY
+  Name: MONT JOLI
+- ID: SIA
+  Name: SANGSTER
+- ID: ADN
+  Name: DEL NORTE
+- ID: MTY
+  Name: MONTERREY
+- ID: YMX
+  Name: MIRABEL
+- ID: YUL
+  Name: MONTREAL
+- ID: ZQA
+  Name: NASSAU
+- ID: YYB
+  Name: NORTH BAY
+- ID: UNV
+  Name: NUEVAS
+- ID: NLD
+  Name: NUEVO LAREDO
+- ID: OBN
+  Name: OBLEON
+- ID: ABA
+  Name: ARUBA
+- ID: YOW
+  Name: OTTAWA
+- ID: TUM
+  Name: TOCUMEN
+- ID: PJM
+  Name: SAINT MAARTEN
+- ID: PPR
+  Name: POINTE A PITRE
+- ID: PAP
+  Name: PORT AU PRINCE
+- ID: YZT
+  Name: PORT HARDY
+- ID: POS
+  Name: PIARCO
+- ID: YPG
+  Name: PORTAGE
+- ID: PAZ
+  Name: POZA RICA
+- ID: YXS
+  Name: PRINCE GEORGE
+- ID: YDC
+  Name: PRINCETON
+- ID: PVN
+  Name: PROVIDENCIALES
+- ID: PZA
+  Name: PUERTO CABEZAS
+- ID: PTA
+  Name: PUERTO PLATA
+- ID: PPE
+  Name: PUNTA PENASCO
+- ID: YQB
+  Name: QUEBEC
+- ID: YRL
+  Name: RED LAKE
+- ID: REX
+  Name: REYNOSA
+- ID: YRI
+  Name: RIVIERE DU LOUP
+- ID: YSJ
+  Name: SAINT JOHN
+- ID: SQN
+  Name: SAN QUINTIN
+- ID: YZP
+  Name: SANDSPIT
+- ID: SRL
+  Name: SANTA ROSALIA
+- ID: SGO
+  Name: SANTIAGO
+- ID: STG
+  Name: SANTIAGO
+- ID: CDO
+  Name: PUNTA CAUCEDO
+- ID: YZV
+  Name: SEPT-ILES
+- ID: YSC
+  Name: SHERBROOKE
+- ID: YSO
+  Name: SIMCOE
+- ID: YYD
+  Name: HOUSTON
+- ID: YJN
+  Name: SAINT JEAN
+- ID: YYT
+  Name: TORBAY
+- ID: ANU
+  Name: V C BIRD
+- ID: YJT
+  Name: STEPHENVILLE
+- ID: YSB
+  Name: SUDBURY
+- ID: YYN
+  Name: SWIFT CURRENT
+- ID: YQY
+  Name: SYDNEY
+- ID: TAM
+  Name: TAMPICO
+- ID: YQD
+  Name: THE PAS
+- ID: YQT
+  Name: THUNDER BAY
+- ID: TIJ
+  Name: TIJUANA
+- ID: YTS
+  Name: TIMMINS
+- ID: YYZ
+  Name: TORONTO
+- ID: TRC
+  Name: TORREON
+- ID: YVO
+  Name: VAL-D'OR/QUE
+- ID: YVR
+  Name: VANCOUVER
+- ID: YYJ
+  Name: VICTORIA
+- ID: YWT
+  Name: WATERLOO
+- ID: YQH
+  Name: WATSON LAKE
+- ID: YXZ
+  Name: WAWA
+- ID: YXY
+  Name: WHITEHORSE
+- ID: YVV
+  Name: WIARTON
+- ID: YWL
+  Name: WILLIAMS LAKE
+- ID: YQG
+  Name: WINDSOR
+- ID: YWG
+  Name: WINNIPEG
+- ID: YQI
+  Name: YARMOUTH
