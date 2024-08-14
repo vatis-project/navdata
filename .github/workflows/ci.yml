@@ -2,10 +2,10 @@ name: CI
 
 on:
   push:
-    branches: [ "main" ]
-    tags: [ "v*" ]
+    branches: ["main"]
+    tags: ["v*"]
   pull_request:
-    branches: [ "main" ]
+    branches: ["main"]
   workflow_dispatch:
 
 jobs:
@@ -14,6 +14,18 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
+
+      - name: Validate airports.yaml
+        uses: thiagodnf/yaml-schema-checker@v0.0.12
+        with:
+          jsonSchemaFile: schema/airports.schema.json
+          yamlFiles: airports.yaml
+
+      - name: Validate navaids.yaml
+        uses: thiagodnf/yaml-schema-checker@v0.0.12
+        with:
+          jsonSchemaFile: schema/navaids.schema.json
+          yamlFiles: navaids.yaml
 
       - name: Create airports.json
         run: |
