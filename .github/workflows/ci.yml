@@ -2,18 +2,31 @@ name: CI
 
 on:
   push:
-    branches: [ "main" ]
-    tags: [ "v*" ]
+    branches: ["main"]
+    tags: ["v*"]
   pull_request:
-    branches: [ "main" ]
+    branches: ["main"]
   workflow_dispatch:
 
 jobs:
   build:
+    name: "Validate and generate"
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
+
+      - name: Validate airports.yaml
+        uses: thiagodnf/yaml-schema-checker@v0.0.12
+        with:
+          jsonSchemaFile: schemas/airports.schema.json
+          yamlFiles: airports.yaml
+
+      - name: Validate navaids.yaml
+        uses: thiagodnf/yaml-schema-checker@v0.0.12
+        with:
+          jsonSchemaFile: schemas/navaids.schema.json
+          yamlFiles: navaids.yaml
 
       - name: Create airports.json
         run: |
