@@ -31,12 +31,20 @@ jobs:
       - name: Create airports.json
         run: |
           yq airports.yaml > /dev/null
-          yq -o=json -I=0 airports.yaml > airports.json
+          yq -o=json -I=0 '[.[] | .ID = (.ID | tostring) | .Name = (.Name | tostring)]' airports.yaml > airports.json
 
       - name: Create navaids.json
         run: |
           yq navaids.yaml > /dev/null
-          yq -o=json -I=0 navaids.yaml > navaids.json
+          yq -o=json -I=0 '[.[] | .ID = (.ID | tostring) | .Name = (.Name | tostring)]' navaids.yaml > navaids.json
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: navdata
+          path: |
+            airports.json
+            navaids.json
 
       - name: Create release
         if: github.ref_type == 'tag' && contains(github.ref_name, 'v')
