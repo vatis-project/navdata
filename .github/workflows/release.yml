@@ -43,7 +43,7 @@ jobs:
           yq -o=json -I=0 '[.[] | .ID = (.ID | tostring) | .Name = (.Name | tostring)]' navaids.yaml > navaids.json
 
       - name: Upload artifacts
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: navdata
           path: |
