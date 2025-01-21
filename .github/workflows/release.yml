@@ -1,0 +1,71 @@
+name: Release
+
+on:
+  workflow_dispatch:
+    inputs:
+      version-increment:
+        required: true
+        type: choice
+        description: How to increment the version number
+        default: 'patch'
+        options:
+        - major
+        - minor
+        - patch
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Validate airports.yaml
+        uses: thiagodnf/yaml-schema-checker@v0.0.12
+        with:
+          jsonSchemaFile: schemas/airports.schema.json
+          yamlFiles: airports.yaml
+
+      - name: Validate navaids.yaml
+        uses: thiagodnf/yaml-schema-checker@v0.0.12
+        with:
+          jsonSchemaFile: schemas/navaids.schema.json
+          yamlFiles: navaids.yaml
+
+      - name: Create airports.json
+        run: |
+          yq airports.yaml > /dev/null
+          yq -o=json -I=0 '[.[] | .ID = (.ID | tostring) | .Name = (.Name | tostring)]' airports.yaml > airports.json
+
+      - name: Create navaids.json
+        run: |
+          yq navaids.yaml > /dev/null
+          yq -o=json -I=0 '[.[] | .ID = (.ID | tostring) | .Name = (.Name | tostring)]' navaids.yaml > navaids.json
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: navdata
+          path: |
+            airports.json
+            navaids.json
+
+      - name: Get next version
+        uses: reecetech/version-increment@2024.10.1
+        id: version
+        with:
+          scheme: semver
+          increment: ${{ github.event.inputs.version-increment }}
+
+      - name: Create release
+        uses: softprops/action-gh-release@v1
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        with:
+          name: NavData ${{ steps.version.outputs.v-version }}
+          tag_name: ${{ steps.version.outputs.v-version }}
+          prerelease: false
+          draft: false
+          files: |
+            airports.json
+            navaids.json
