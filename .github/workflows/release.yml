@@ -32,6 +32,14 @@ jobs:
           jsonSchemaFile: schemas/navaids.schema.json
           yamlFiles: navaids.yaml
 
+      - name: Validate characters
+        run: |
+          if grep -nP '[^\x00-\x7F]' airports.yaml navaids.yaml; then
+            echo "Non-English characters detected! Only standard English ASCII characters are supported."
+            echo "Please remove any special or accented characters from the YAML files."
+            exit 1
+          fi
+
       - name: Create airports.json
         run: |
           yq airports.yaml > /dev/null
